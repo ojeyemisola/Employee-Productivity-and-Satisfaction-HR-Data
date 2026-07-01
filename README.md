@@ -1,5 +1,7 @@
 # Employee Productivity and Satisfaction HR Data
 
+<img width="1387" height="605" alt="Screenshot 2026-07-01 at 15 37 37" src="https://github.com/user-attachments/assets/c381fe34-64da-47b2-aaf2-b53f348be93f" />
+
 ## Executive Summary
 
 This project analyzes Human Resources (HR) data to identify the factors influencing employee productivity and job satisfaction using statistical analysis and interactive dashboards.
