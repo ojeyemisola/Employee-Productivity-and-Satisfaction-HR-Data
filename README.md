@@ -103,6 +103,7 @@ The project followed a structured HR analytics workflow:
 - Data Analysis ToolPak
 - Multiple Regression Analysis
 - Dashboard Design
+- Power BI
 
 ---
 
