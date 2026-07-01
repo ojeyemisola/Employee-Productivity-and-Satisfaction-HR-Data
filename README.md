@@ -1,6 +1,7 @@
 # Employee Productivity and Satisfaction HR Data
 
-<img width="1387" height="605" alt="Screenshot 2026-07-01 at 15 37 37" src="https://github.com/user-attachments/assets/c381fe34-64da-47b2-aaf2-b53f348be93f" />
+<img width="1500" height="1000" alt="HR-Analytics" src="https://github.com/user-attachments/assets/a72f3e7c-f634-467d-a29a-17465c3688d4" />
+
 
 ## Executive Summary
 
