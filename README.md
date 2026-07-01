@@ -77,7 +77,8 @@ The project followed a structured HR analytics workflow:
 3. Data Analysis
    - Descriptive Statistics
    - Pivot Tables
-   - Interactive Excel Dashboards
+   - Interactive
+   - Excel Dashboards
    - Correlation Analysis
    - Multiple Regression Analysis
 
@@ -105,3 +106,5 @@ The project followed a structured HR analytics workflow:
 ## Expected Outcome
 
 This project demonstrates how HR analytics can support strategic decision-making by identifying the key drivers of employee productivity, satisfaction, project performance, and overall organizational effectiveness.
+
+<img width="1387" height="605" alt="Screenshot 2026-07-01 at 15 37 37" src="https://github.com/user-attachments/assets/c381fe34-64da-47b2-aaf2-b53f348be93f" />
